@@ -36,5 +36,9 @@ The high score, longest distance, and achievements are saved to a file named `Mo
 - IDE: Visual Studio
 - Concepts used: arrays, loops, timers, event handlers, file storage
 
+## Screenshot
+<img width="1280" height="720" alt="yutub" src="https://github.com/user-attachments/assets/bda64202-8505-46b7-9b7f-078d4017b761" />
+
+
 ## Author
 Nathasya Yohana Rosabel
